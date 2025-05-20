@@ -1,0 +1,17 @@
+📁 INSTRUÇÕES - CLASSIFICADOR COM REMOÇÃO DE PASTAS VAZIAS
+
+1. Instale o Python: https://python.org
+
+2. Execute o script:
+
+   - Dê dois cliques no arquivo `classificador_com_remocao.py`
+     OU
+   - Pelo terminal: python classificador_com_remocao.py
+
+3. Ele pedirá que você selecione uma pasta (ex: Downloads)
+
+4. O script irá:
+   ✅ Mover os arquivos por extensão
+   ✅ Criar subpastas com base na extensão
+   ✅ Apagar todas as pastas que ficarem vazias
+   ✅ Gerar um log com tudo que foi feito
